@@ -7,3 +7,11 @@ Em análise numérica, o método de Newton (ou Método de Newton–Raphson), des
 </p>
 
 onde *x0* é uma aproximação inicial dada, *n* indica a *n*-ésima iteração do algoritmo e *f′(xn)* é a derivada da função *f* no ponto *xn*.
+
+## Dependências
+
+Para utilizar o código você precisa da linguagem de programação Python na versão 3.6 ou superior, além da biblioteca Sympy, que auxilia na função derivada.
+* [Python](https://www.python.org/)
+* [Sympy](https://www.sympy.org/pt/index.html)
+
+*Obs: Vale lembrar que o código foi escrito em uma máquina utilizando GNU/Linux como sistema operacional. Então pode ocorrer erros de sintaxe se usado em sistemas operacionais Microsoft Windows e MacOS da Apple, porém eu não testei, então vai na fé.
