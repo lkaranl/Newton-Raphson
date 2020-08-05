@@ -1,8 +1,8 @@
 #!/usr/bin/env python3.8
 #####	NAME:				ALGORITMO NEWTON
 #####	VERSION:			0.3
-#####	DESCRIPTION:		
-#####	DATE OF CREATION:	11/03/2020
+#####	DESCRIPTION:			The Newton-Raphson method 
+#####	DATE OF CREATION:		11/03/2020
 #####	WRITTEN BY:			KARAN LUCIANO SILVA | JACKSON DURAES
 #####	E-MAIL:				karanluciano1@gmail.com			
 #####	DISTRO:				ARCH LINUX
