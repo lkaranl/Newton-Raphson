@@ -1,13 +1,13 @@
 #!/usr/bin/env python3.8
 #####	NAME:				ALGORITMO NEWTON
 #####	VERSION:			0.3
-#####	DESCRIPTION:			The Newton-Raphson method 
-#####	DATE OF CREATION:		11/03/2020
+#####	DESCRIPTION:		The Newton-Raphson method 
+#####	DATE OF CREATION:	11/03/2020
 #####	WRITTEN BY:			KARAN LUCIANO SILVA | JACKSON DURAES
 #####	E-MAIL:				karanluciano1@gmail.com			
 #####	DISTRO:				ARCH LINUX
 #####	LICENSE:			GPLv3 			
-#####	PROJECT:			https://github.com/lkaranl/
+#####	PROJECT:			https://github.com/lkaranl/Newton-Raphson
 
 import derivada
 import aux_newton
@@ -37,8 +37,8 @@ def newton():
 		test.append(xn)
 		iteracao = iteracao +1
 	print("─"*88)
-	print("A taxa de erro desejada esta na {} iteracao\nPossivel raiz do erro desejado = {}\nTaxa de erro = |{}|".format(iteracao-1,test[iteracao-2],a))
-	#print("{:.4f}".format(test[iteracao-2]))
-
+	print("A taxa de erro desejada esta na \033[1;31m{}º\033[0;0m iteracao" .format(iteracao-1))
+	print("Possivel raiz do erro desejado = \033[1;31m{} \033[0;0m".format(test[iteracao-2]))
+	print("Taxa de erro = \033[1;31m|{}|\033[0;0m \n".format(a))
 
 newton()
