@@ -15,3 +15,10 @@ Para utilizar o código você precisa da linguagem de programação Python na ve
 * [Sympy](https://www.sympy.org/pt/index.html)
 
 *Obs: Vale lembrar que o código foi escrito em uma máquina utilizando GNU/Linux como sistema operacional. Então pode ocorrer erros de sintaxe se usado em sistemas operacionais Microsoft Windows e MacOS da Apple, porém eu não testei, então vai na fé.
+
+## Como usar
+basta baixar o projeto clicando [aqui](https://github.com/lkaranl/Newton-Raphson/archive/master.zip) e descompactar onde desejar, em seguida execute o arquivo main.py com o python3
+
+`$ python3 main.py`
+
+O programa é bem intuitivo após essa etapa, bastando colocar a função desejada de acordo com a sintaxe exijida.
