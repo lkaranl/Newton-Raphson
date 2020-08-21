@@ -22,3 +22,8 @@ basta baixar o projeto clicando [aqui](https://github.com/lkaranl/Newton-Raphson
 `$ python3 main.py`
 
 O programa é bem intuitivo após essa etapa, bastando colocar a função desejada de acordo com a sintaxe exijida.
+
+
+## Modo Online
+Use este [SITE](https://repl.it/languages/python3), ele é um simulador online para o Python. E eu também fiz um vídeo bem curto de como
+pode estar fazendo todo o processo -> [TUTORIAL](https://drive.google.com/file/d/1Fx9EZkGM3Fy21IA1COk66rEvkrFS2RBl/view)
