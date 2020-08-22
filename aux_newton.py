@@ -32,7 +32,7 @@ def calculo():# FUNCAO QUE FAZ O CALCULO INICIAL DE FX E OS LACOS DE REPETICAO E
 	l = 1
 	efedeX()
 	gedeX()
-	for z in range(8): # LACO QUE VERIFICA OS VALORES QUE PROVAVELMENTE TEMHAM RAIZES
+	for z in range(7): # LACO QUE VERIFICA OS VALORES QUE PROVAVELMENTE TEMHAM RAIZES
 		if gx[j] != gx[k]:
 			med = ((v[j] + v [k]) / 2)
 			medd.append(med)
