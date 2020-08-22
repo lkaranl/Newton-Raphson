@@ -2,7 +2,7 @@
 
 print('\033[1;31m'+"\n\t**** Metodo da NEWTON-RAPHSON ****\033[0;0m")
 print('\nFuncao exemplo: x^3 - 9x + 5\nComo digitar: x**3 - 9*x + 5\n')
-v = [-4,-3,-2,-1,0,1,2,3,4] #VETOR DE POSSICOES, ORDEM CRESCENTE
+v = [-4,-3,-2,-1,1,2,3,4] #VETOR DE POSSICOES, ORDEM CRESCENTE
 vv = [] #VETOR ONDE FICA APENAS OS NUMEROS QUE SAO UM FX POSITIVO E O OUTRO NEGATIVO EX:[-4-,-3+,0+,+1-]
 medd = [] #ARMAZENAS AS MEDIAS
 erro = 0.001 # TAXA DE ERRO EXIGIDA
